@@ -38,6 +38,16 @@ Nessun materiale scritto esisteva ancora: questa è la prima messa a sistema di 
 - Il Modulo 10 è scritto usando relatività ristretta/generale spiegata "quel tanto che basta" dentro ai file stessi (per non lasciare buchi), ma **i Moduli 01-09 e 11 sono ancora scheletri (solo roadmap, senza contenuto)**. Sono il prossimo passo naturale per rendere la comprensione dei buchi neri completa e rigorosa "dal basso" (con tensori veri, equazioni di campo di Einstein derivate, QFT in spaziotempo curvo per Hawking rigoroso).
 - Nessun esercizio numerico strutturato ancora (previsto in `10-buchi-neri/ESERCIZI.md`, da creare).
 
+## Sessione 2 — 2026-08-19 (continuazione)
+
+**Cosa è stato fatto:**
+- Ripresa la lettura da `10-buchi-neri/01-fondamenti.md`, sezione 2 ("Cos'è davvero un buco nero").
+- Domanda dello studente: se un buco nero non è materia né nulla, è "praticamente un'allucinazione"?
+- Aggiunta una sezione di chiarimento direttamente in `01-fondamenti.md` (subito dopo la sezione 2) che risponde in modo definitivo: **no, non è un'allucinazione** — è geometria reale (curvatura dello spaziotempo), con effetti oggettivi, misurabili da chiunque indipendentemente dall'osservatore, ed energia reale trasportata (onde gravitazionali). Analogia usata: è reale come un campo elettromagnetico è reale (un campo, non fatto di atomi, ma con effetti fisici oggettivi) — non materia, non niente, ma un'altra categoria di ente fisico. Inclusa anche l'onestà intellettuale sul problema tecnico reale e aperto della localizzazione dell'energia gravitazionale in RG (accennato, da riprendere nel Modulo 05).
+- Questo tipo di dubbio concettuale (materia vs. geometria vs. "nulla") è centrale e ricorrerà: va tenuto presente quando scriveremo il Modulo 05 (Relatività Generale) per formalizzarlo con più strumenti (tensore energia-impulso, equazioni di campo, pseudo-tensori di energia gravitazionale).
+
+**Prossimo passo:** continuare la lettura di `10-buchi-neri/01-fondamenti.md` dalla sezione 3 in poi (o procedere secondo le priorità sotto, a scelta dello studente).
+
 ## Prossimi passi consigliati (in ordine di priorità)
 
 1. **Modulo 04 — Relatività Ristretta**: costruire da zero (postulati, trasformazioni di Lorentz, spaziotempo di Minkowski). È il prerequisito diretto per leggere la Relatività Generale con vero rigore.
